@@ -39,9 +39,9 @@
 
 ## Задание 1
 ### Написать программы Hello World на Python и Unity
--Программа Hello World на Python
+- Программа Hello World на Python
 ![1.1](/img/1.png)
--Программа Hello World на Unity
+- Программа Hello World на Unity
 ![1.2](/img/2.png)
 
 ## Задание 2
